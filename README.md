@@ -1,8 +1,8 @@
-# Voice Clone – Real-Time Speech Synthesis on Kubernetes
+# Voice Clone – Real-Time Speech Synthesis on Kubernetes with Sensible AWS Serverless Architecture
 
 Welcome to **Voice Clone**, your one-stop shop for real-time, self-hosted voice synthesis powered by Tortoise TTS and Flask, fully automated with Terraform, ArgoCD, and Docker. Deploy the entire stack into Kubernetes and scale your voice.
 
-Live Demo: [https://voice-clone.brewsentry.com](https://voice-clone.brewsentry.com)
+Live Demo: [Dead Link]
 
 ---
 
